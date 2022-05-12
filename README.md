@@ -1,7 +1,7 @@
 # CaseStudyINFO4335
 
 i. Group Name.
-Luqman's group
+Luqman's group<br>
 ii. Group Member Details (Name & Matric No).
 -WAN AHMAD LUQMAN AL-HAKIM WAN AZMI (1814213)
 -MUHAMMAD 'AFIF AKMAL BIN ADNAN (1819433)
